@@ -6,6 +6,7 @@
 }
 #sobrenos{
     color: white;
+    font-size: xx-large;
 }
 .sobrenosotros{
     padding-top: 6%;
@@ -29,6 +30,7 @@
     text-align: center;
     padding-bottom: 3%;
     color: #2a267c;
+    font-size: medium;
 }
 .cartas{
     background-color: white;
@@ -215,7 +217,7 @@
     margin-top: 100px;
 }
 .empresas{
-    font-size:60px;
+    font-size:45px;
     text-align: center;
     margin-bottom: 70px;
     color: #2a267c;
@@ -239,7 +241,7 @@
 }
 .Representaciones{
     text-align: center;
-    font-size: 60px;
+    font-size: 45px;
     margin: 50px;
     color: #2a267c;
 }
@@ -471,7 +473,7 @@
     text-decoration: none;
 }
 .nav-item {
-    font-size: x-large;
+    font-size: large;
 }
 header{
     background-color: #EEEEEE;
